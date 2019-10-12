@@ -45,15 +45,12 @@
 <video id="video2" width="640" height="480" controls="controls" style="text-align:center">
   <source src="2.mp4" type="video/mp4" />
 </video>
-</p>
-
-<p align="center">
-<video id="video1" width="640" height="480"controls="controls" style="text-align:center">
-  <source src="./1.mp4" type="video/mp4" />
+</br>
+<video id="video1" width="640" height="480" controls="controls" style="text-align:center">
+  <source src="1.mp4" type="video/mp4" />
 </video>
-  </p>
-<p align="center">
-<videoid="video3" width="640" height="480" controls="controls" style="text-align:center">
+ </br>
+<video id="video3" width="640" height="480" controls="controls" style="text-align:center">
   <source src="3.mp4" type="video/mp4" />
 </video>
 </p>
