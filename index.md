@@ -2,7 +2,7 @@
 
 西安恒景通视觉科技有限责任公司
 
-2019年10月12日
+2019年10月
 
 
 ## 1. 公司简介
@@ -42,14 +42,15 @@
 以下是测试视频
 
 <p align="center">
-<video width="320" height="240" controls="controls" style="text-align:center">
-  <source src="./1.mp4" type="video/mp4" />
-</video>
-  </p>
-<p align="center">
 
 <video width="320" height="240" controls="controls"style="text-align:center">
   <source src="2.mp4" type="video/mp4" />
+</video>
+</p>
+
+<p align="center">
+<video width="320" height="240" controls="controls" style="text-align:center">
+  <source src="./1.mp4" type="video/mp4" />
 </video>
   </p>
 <p align="center">
