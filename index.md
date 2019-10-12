@@ -1,3 +1,4 @@
+<style>
 body{
     margin: 0 auto;
     font-family: "Microsoft YaHei", arial,sans-serif;
@@ -420,7 +421,8 @@ table tr:last-child td:last-child {
     -webkit-border-radius: 0 0 6px 0;
     border-radius: 0 0 6px 0;
 }
-
+</style>
+<title>受电弓安全状态检测系统说明文档</title>
 
 # 受电弓安全状态检测系统说明文档
 
