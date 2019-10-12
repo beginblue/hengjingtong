@@ -42,8 +42,7 @@
 以下是测试视频
 
 <p align="center">
-
-<video id="video2" width="640" height="480" controls="controls"style="text-align:center">
+<video id="video2" width="640" height="480" controls="controls" style="text-align:center">
   <source src="2.mp4" type="video/mp4" />
 </video>
 </p>
